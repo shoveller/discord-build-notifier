@@ -1,0 +1,28 @@
+{
+  "name": "discord-build-notifier",
+  "version": "1.0.0",
+  "description": "Discord build notification CLI for CI/CD environments",
+  "type": "module",
+  "bin": {
+    "noti": "./index.mjs"
+  },
+  "files": [
+    "index.mjs",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onomin-dev/hatsuon-check.git",
+    "directory": "packages/noti"
+  },
+  "keywords": [
+    "discord",
+    "notification",
+    "webhook",
+    "ci",
+    "cd",
+    "cloudflare-pages"
+  ],
+  "author": "onomin-dev",
+  "license": "ISC"
+}

@@ -8,13 +8,17 @@
   },
   "files": [
     "index.mjs",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onomin-dev/hatsuon-check.git",
-    "directory": "packages/noti"
+    "url": "git+https://github.com/shoveller/discord-build-notifier.git"
   },
+  "bugs": {
+    "url": "https://github.com/shoveller/discord-build-notifier/issues"
+  },
+  "homepage": "https://github.com/shoveller/discord-build-notifier#readme",
   "keywords": [
     "discord",
     "notification",

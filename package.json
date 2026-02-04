@@ -1,5 +1,5 @@
 {
-  "name": "discord-build-notifier",
+  "name": "@shoveller/discord-build-notifier",
   "version": "1.0.0",
   "description": "Discord build notification CLI for CI/CD environments",
   "type": "module",

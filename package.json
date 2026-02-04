@@ -4,7 +4,7 @@
   "description": "Discord build notification CLI for CI/CD environments",
   "type": "module",
   "bin": {
-    "noti": "./index.mjs"
+    "noti": "index.mjs"
   },
   "files": [
     "index.mjs",

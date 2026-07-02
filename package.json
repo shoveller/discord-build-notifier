@@ -28,5 +28,8 @@
     "cloudflare-pages"
   ],
   "author": "onomin-dev",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "node --test"
+  }
 }

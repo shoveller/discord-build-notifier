@@ -1,6 +1,6 @@
 {
   "name": "discord-build-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discord build notification CLI for CI/CD environments",
   "type": "module",
   "bin": {
